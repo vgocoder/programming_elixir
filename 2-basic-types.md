@@ -113,7 +113,7 @@ true
 ```
 
 ## 2.4-字符串
-在Elixir中，字符串以 **双括号** 包裹，采用UTF-8编码：
+在Elixir中，字符串以 **双引号** 包裹，采用UTF-8编码：
 ```elixir
 iex> "hellö"
 "hellö"
